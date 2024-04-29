@@ -22,6 +22,6 @@ os princípios de RESTful APIs.
 - Simulação de empréstimos
 - Simulação de financiamentos de imóveis e veículos
 
-## Como Usar
+
 
 
